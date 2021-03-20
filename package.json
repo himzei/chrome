@@ -1,0 +1,23 @@
+{
+  "name": "chrome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himzei/chrome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himzei/chrome/issues"
+  },
+  "homepage": "https://himzei.github.io/chrome/",
+  "dependencies": {
+    "express": "^4.17.1",
+    "gh-pages": "^3.1.0"
+  }
+}
